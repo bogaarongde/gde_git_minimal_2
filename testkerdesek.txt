@@ -37,3 +37,13 @@ C. WIP limitek
 D. Ütemterv
 
 Válasz:D
+
+Kérdés 5:
+Melyik elem része a Kanban táblának?
+
+A. Feladat kártyák
+B. Munkafázisok
+C. WIP limitek
+D. Ütemterv
+
+Válasz:D
